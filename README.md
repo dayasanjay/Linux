@@ -47,3 +47,16 @@ SOLUS
 FEDORA
 ELEMENTARY OS
 OPENSUSE
+
+### Linux file system overview
+
+Linux has hierarchical tree structue means it has only one root folder whereas windows has multiple root folders.
+
+<b>/root</b>                 ----> Root users home directory is at /root
+<b>/home</b>                 ----> For normal users
+<b>/bin</b>                  ----> Excecutables or most essential user commands
+<b>/sbin</b>                 ----> System relevant commands used by super user
+<b>/lib</b>                  ----> Essential shared libraries that executables from /bin or /sbin use
+<b>user</b>                  ----> This is used for user home directories(because of storage limitations it was split into to root binary folders and user binary folders)
+<b>/user/local</b>           ----> Programs that you install on the computer and third party applications like docker,minicube,java etc
+<b>/opt</b>                  ----> Third party programs you install
