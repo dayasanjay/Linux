@@ -74,10 +74,10 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 1.work more efficient<br>
 2.Easier for bulk operations<br>
 3.CLI is more powerful<br>
-4.Virtual tasks like video editing
+4.Virtual tasks like video editing<br>
 
 ### Linux Accounts and Groups
-<b>Basically there are three user categories</b>
+<b>Basically there are three user categories</b><br>
 <b>1.Super user account</b><br>
    * Root user has unrestricted permissions<br>
    * For adminstrative tasks need to login as root user or excecute commands as root using the command 'sudo' <br>
@@ -86,6 +86,7 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 <b>3.Service account</b><br>
    * Relevant for linux server distros. e.g Apache, MYSQL<br>
    * Each service will get its own user. e.g mysql user will start mysql application<br>
-   * Best practice for security
+   * Best practice for security<br>
  
  ### Basic Linux Commands
+ 
