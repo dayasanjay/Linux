@@ -37,26 +37,35 @@ These points are crucial to understanding the community that works together to c
 
 Linux has a number of different versions to suit any type of user. From new users to hard-core users, you’ll find a “flavor” of Linux to match your needs. These versions are called distributions (or, in the short form, “distros”). Nearly every distribution of Linux can be downloaded for free, burned onto disk (or USB thumb drive), and installed (on as many machines as you like).
 
-<>bPopular Linux distributions include:</b>
-LINUX MINT
-MANJARO
-DEBIAN
-UBUNTU
-ANTERGOS
-SOLUS
-FEDORA
-ELEMENTARY OS
+<b>Popular Linux distributions include:</b><br>
+LINUX MINT<br>
+MANJARO<br>
+DEBIAN<br>
+UBUNTU<br>
+ANTERGOS<br>
+SOLUS<br>
+FEDORA<br>
+ELEMENTARY OS<br>
 OPENSUSE
 
 ### Linux file system overview
 
 Linux has hierarchical tree structue means it has only one root folder whereas windows has multiple root folders.
 
-<b>/root</b>                 ----> Root users home directory is at /root
-<b>/home</b>                 ----> For normal users
-<b>/bin</b>                  ----> Excecutables or most essential user commands
-<b>/sbin</b>                 ----> System relevant commands used by super user
-<b>/lib</b>                  ----> Essential shared libraries that executables from /bin or /sbin use
-<b>user</b>                  ----> This is used for user home directories(because of storage limitations it was split into to root binary folders and user binary folders)
-<b>/user/local</b>           ----> Programs that you install on the computer and third party applications like docker,minicube,java etc
-<b>/opt</b>                  ----> Third party programs you install
+<b>/root</b>                 ----> Root users home directory is at /root<br>
+<b>/home</b>                 ----> For normal users<br>
+<b>/bin</b>                  ----> Excecutables or most essential user commands<br>
+<b>/sbin</b>                 ----> System relevant commands used by super user<br>
+<b>/lib</b>                  ----> Essential shared libraries that executables from /bin or /sbin use<br>
+<b>user</b>                  ----> This is used for user home directories(because of storage limitations it was split into to root binary folders and user binary folders)<br>
+<b>/user/local</b>           ----> Programs that you install on the computer and third party applications like docker,minicube,java etc<br>
+<b>/opt</b>                  ----> Third party programs you install<br>
+<b>boot</b>                  ----> Contains files requored for booting<br>
+<b>etc</b>                   ----> Place where configurations for system wide applications is stored<br>
+<b>/dev</b>                  ----> Location of device files like webcam keyboard, hard drive etc
+<b>/var</b>                  ----> Contains files to which the system writes data during the course of its operation
+<b>/var/log</b>              ----> Contains log files
+<b>var/cache</b>             ----> Contains cached data from application programs
+<b>/tmp</b>                  ----> Temporary resources required for some process, kept here temporarily
+<b>/media</b>                ----> Contains subdirecories where removable media device inserted into the computer are mounted
+<b>/mnt</b>                  ----> Historically system admins mounted temporary file systems there
