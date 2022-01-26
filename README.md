@@ -57,15 +57,15 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 <b>/bin</b>                  ----> Excecutables or most essential user commands<br>
 <b>/sbin</b>                 ----> System relevant commands used by super user<br>
 <b>/lib</b>                  ----> Essential shared libraries that executables from /bin or /sbin use<br>
-<b>user</b>                  ----> This is used for user home directories(because of storage limitations it was split into to root binary folders and user binary folders)<br>
+<b>/user</b>                  ----> This is used for user home directories(because of storage limitations it was split into to root binary folders and user binary folders)<br>
 <b>/user/local</b>           ----> Programs that you install on the computer and third party applications like docker,minicube,java etc<br>
 <b>/opt</b>                  ----> Third party programs you install<br>
-<b>boot</b>                  ----> Contains files requored for booting<br>
-<b>etc</b>                   ----> Place where configurations for system wide applications is stored<br>
-<b>/dev</b>                  ----> Location of device files like webcam keyboard, hard drive etc
-<b>/var</b>                  ----> Contains files to which the system writes data during the course of its operation
-<b>/var/log</b>              ----> Contains log files
-<b>var/cache</b>             ----> Contains cached data from application programs
-<b>/tmp</b>                  ----> Temporary resources required for some process, kept here temporarily
-<b>/media</b>                ----> Contains subdirecories where removable media device inserted into the computer are mounted
-<b>/mnt</b>                  ----> Historically system admins mounted temporary file systems there
+<b>/boot</b>                  ----> Contains files requored for booting<br>
+<b>/etc</b>                   ----> Place where configurations for system wide applications is stored<br>
+<b>/dev</b>                  ----> Location of device files like webcam keyboard, hard drive etc<br>
+<b>/var</b>                  ----> Contains files to which the system writes data during the course of its operation<br>
+<b>/var/log</b>              ----> Contains log files<br>
+<b>var/cache</b>             ----> Contains cached data from application programs<br>
+<b>/tmp</b>                  ----> Temporary resources required for some process, kept here temporarily<br>
+<b>/media</b>                ----> Contains subdirecories where removable media device inserted into the computer are mounted<br>
+<b>/mnt</b>                  ----> Historically system admins mounted temporary file systems there<br>
