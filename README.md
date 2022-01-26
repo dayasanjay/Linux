@@ -78,10 +78,11 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 
 ### Linux Accounts and Groups
 <b>Basically there are three user categories</b><br>
+
 <b>1.Super user account</b><br>
    * Root user has unrestricted permissions<br>
    * For adminstrative tasks need to login as root user or excecute commands as root using the command 'sudo' <br>
- <b>2.Regular/standard user account</b><br>
+<b>2.Regular/standard user account</b><br>
    * Aregular user we creae to login. e.g tom ---> /home/tom<br>
 <b>3.Service account</b><br>
    * Relevant for linux server distros. e.g Apache, MYSQL<br>
