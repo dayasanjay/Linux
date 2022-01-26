@@ -8,12 +8,12 @@ Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one o
 
 <b>The Linux operating system comprises several different pieces:</b>
 
-<b>1.Bootloader –</b>  The software that manages the boot process of your computer. For most users, this will simply be a splash screen that pops up and eventually goes away to boot into the operating system.
-<b>2.Kernel –</b> This is the one piece of the whole that is actually called ?Linux?. The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
-<b>3.Init system </b> – This is a sub-system that bootstraps the user space and is charged with controlling daemons. One of the most widely used init systems is systemd? which also happens to be one of the most controversial. It is the init system that manages the boot process, once the initial booting is handed over from the bootloader (i.e., GRUB or GRand Unified Bootloader).
-<b>4.Daemons –</b> These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.
-<b>5.Graphical server –</b> This is the sub-system that displays the graphics on your monitor. It is commonly referred to as the X server or just X.
-<b>6.Desktop environment –</b> This is the piece that the users actually interact with. There are many desktop environments to choose from (GNOME, Cinnamon, Mate, Pantheon, Enlightenment, KDE, Xfce, etc.). Each desktop environment includes built-in applications (such as file managers, configuration tools, web browsers, and games).
+<b>1.Bootloader –</b>  The software that manages the boot process of your computer. For most users, this will simply be a splash screen that pops up and eventually goes away to boot into the operating system.<br>
+<b>2.Kernel –</b> This is the one piece of the whole that is actually called ?Linux?. The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.<br>
+<b>3.Init system </b> – This is a sub-system that bootstraps the user space and is charged with controlling daemons. One of the most widely used init systems is systemd? which also happens to be one of the most controversial. It is the init system that manages the boot process, once the initial booting is handed over from the bootloader (i.e., GRUB or GRand Unified Bootloader).<br>
+<b>4.Daemons –</b> These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.<br>
+<b>5.Graphical server –</b> This is the sub-system that displays the graphics on your monitor. It is commonly referred to as the X server or just X.<br>
+<b>6.Desktop environment –</b> This is the piece that the users actually interact with. There are many desktop environments to choose from (GNOME, Cinnamon, Mate, Pantheon, Enlightenment, KDE, Xfce, etc.). Each desktop environment includes built-in applications (such as file managers, configuration tools, web browsers, and games).<br>
 <b>7.Applications –</b> Desktop environments do not offer the full array of apps. Just like Windows and macOS, Linux offers thousands upon thousands of high-quality software titles that can be easily found and installed. Most modern Linux distributions (more on this below) include App Store-like tools that centralize and simplify application installation. For example, Ubuntu Linux has the Ubuntu Software Center (a rebrand of GNOME Software? Figure 1) which allows you to quickly search among the thousands of apps and install them from one centralized location.
 
 ### Why use Linux?
@@ -65,7 +65,17 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 <b>/dev</b>                  ----> Location of device files like webcam keyboard, hard drive etc<br>
 <b>/var</b>                  ----> Contains files to which the system writes data during the course of its operation<br>
 <b>/var/log</b>              ----> Contains log files<br>
-<b>var/cache</b>             ----> Contains cached data from application programs<br>
+<b>/var/cache</b>             ----> Contains cached data from application programs<br>
 <b>/tmp</b>                  ----> Temporary resources required for some process, kept here temporarily<br>
 <b>/media</b>                ----> Contains subdirecories where removable media device inserted into the computer are mounted<br>
 <b>/mnt</b>                  ----> Historically system admins mounted temporary file systems there<br>
+### Use Command Line Interface (CLI) Over Graphical User Interface (GUI)
+<b>why using CLI instead GUI</b><br>
+1.work more efficient<br>
+2.Easier for bulk operations<br>
+3.CLI is more powerful<br>
+4.Virtual tasks like video editing
+
+### Linux Accounts and Groups
+<b>Basically there are three user categories</b>
+<b></b>
