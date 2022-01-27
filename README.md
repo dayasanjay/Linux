@@ -6,7 +6,7 @@ Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one o
 
 ### <b>Description of Linux</b>
 
-<b>The Linux operating system comprises several different pieces:</b>
+### The Linux operating system comprises several different pieces:
 
 <b>1.Bootloader –</b>  The software that manages the boot process of your computer. For most users, this will simply be a splash screen that pops up and eventually goes away to boot into the operating system.<br>
 <b>2.Kernel –</b> This is the one piece of the whole that is actually called ?Linux?. The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.<br>
@@ -93,7 +93,7 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
  
 ### Basic Linux Commands
 <b> The commands which we use in our command prompt</b><br>
-<b>pwd</b>           ----> shows the present directory<br>
+<b>pwd</b>  nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ----> shows the present directory<br>
 <b>ls</b>            ----> shows the list of files and directories<br>
 <b>ls -a</b>         ----> shows the list of files and directories including hidden files and directories<br>
 <b>cd</b>            ----> Use the command to go to a directory<br>
