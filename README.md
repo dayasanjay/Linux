@@ -95,7 +95,7 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 <b> The commands which we use in our command prompt</b><br>
 <b>pwd</b>           ----> shows the present directory<br>
 <b>ls</b>            ----> shows the list of files and directories<br>
-<b>ls -a</b>         ----> shows the list of files and directories including hidden files and directories
-<b>cd</b>            ----> Use the command to go to a directory
+<b>ls -a</b>         ----> shows the list of files and directories including hidden files and directories<br>
+<b>cd</b>            ----> Use the command to go to a directory<br>
 
  
