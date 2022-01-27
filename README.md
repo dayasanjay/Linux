@@ -93,7 +93,7 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
  
 ### Basic Linux Commands
 <b> The commands which we use in our command prompt</b><br>
-<b>sudo</b>          ----> sudo stands for "SuperUser Do". So, if you want any command to be done with administrative or root privileges, you can use the sudo command
+<b>sudo</b>          ----> sudo stands for "SuperUser Do". So, if you want any command to be done with administrative or root privileges, you can use the sudo command<br>
 <b>pwd</b>           ----> shows the present directory<br>
 <b>ls</b>            ----> shows the list of files and directories<br>
 <b>ls -a</b>         ----> shows the list of files and directories including hidden files and directories<br>
@@ -113,8 +113,8 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
 <b>ping</b>          ----> use ping to check your connection to a server<br>
 
 ### Tips and Tricks for Using Linux Command Line
-You can use the <b>clear</b> command to clear the terminal if it gets filled up with too many commands.<br>
-TAB can be used to fill up in terminal. For example, You just need to type “cd Doc” and then TAB and the terminal fills the rest up and makes it “cd Documents”.<br>
-Ctrl+C can be used to stop any command in terminal safely. If it doesn't stop with that, then Ctrl+Z can be used to force stop it.<br>
-You can exit from the terminal by using the exit command.<br>
-You can power off or reboot the computer by using the command sudo halt and sudo reboot.<br>
+--> You can use the <b>clear</b> command to clear the terminal if it gets filled up with too many commands.<br>
+--> TAB can be used to fill up in terminal. For example, You just need to type “cd Doc” and then TAB and the terminal fills the rest up and makes it “cd Documents”.<br>
+--> Ctrl+C can be used to stop any command in terminal safely. If it doesn't stop with that, then Ctrl+Z can be used to force stop it.<br>
+--> You can exit from the terminal by using the exit command.<br>
+--> You can power off or reboot the computer by using the command sudo halt and sudo reboot.<br>
