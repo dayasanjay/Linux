@@ -1,10 +1,10 @@
 ### Linux
 
-## What is Linux?
+## <b>What is Linux?</b>
 
 Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop.
 
-### Description of Linux
+### <b>Description of Linux</b>
 
 <b>The Linux operating system comprises several different pieces:</b>
 
