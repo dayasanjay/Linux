@@ -84,12 +84,18 @@ Linux has hierarchical tree structue means it has only one root folder whereas w
    * For adminstrative tasks need to login as root user or excecute commands as root using the command 'sudo' <br>
 
 <b>2.Regular/standard user account</b><br>
-   * Aregular user we creae to login. e.g tom ---> /home/tom<br>
+   * Aregular user we creae to login. e.g : tom ---> /home/tom<br>
 
 <b>3.Service account</b><br>
    * Relevant for linux server distros. e.g Apache, MYSQL<br>
-   * Each service will get its own user. e.g mysql user will start mysql application<br>
+   * Each service will get its own user. e.g : mysql user will start mysql application<br>
    * Best practice for security<br>
  
 ### Basic Linux Commands
+<b> The commands which we use in our command prompt</b><br>
+<b>pwd</b>           ----> shows the present directory<br>
+<b>ls</b>            ----> shows the list of files and directories<br>
+<b>ls -a</b>         ----> shows the list of files and directories including hidden files and directories
+<b>cd</b>            ----> Use the command to go to a directory
+
  
